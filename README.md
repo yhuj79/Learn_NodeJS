@@ -1,11 +1,11 @@
 # Learn Node.JS
 
-<img width=300 src=https://raw.githubusercontent.com/yhuj79/Learn_NodeJS/master/md_image/00_TableOfContents_1.jpg>
+<img width=300 src=https://raw.githubusercontent.com/yhuj79/Learn_NodeJS/master/md_image/thumnail.jpg>
 
 `Node.js 교과서 - 길벗 / 조현영`
-
-<!-- ### :information_source: [목차](https://github.com/yhuj79/Learn_React/blob/master/chap/00_TableOfContents.md)
-
+ 
+### :information_source: [목차](https://github.com/yhuj79/Learn_React/blob/master/chap/00_TableOfContents.md)
+<!--
 ### :two: [JSX](https://github.com/yhuj79/Learn_React/blob/master/chap/02_JSX.md)
 
 ### :three: [Component](https://github.com/yhuj79/Learn_React/blob/master/chap/03_Component.md)
@@ -28,4 +28,5 @@
 
 # Side
 
-### :heavy_check_mark: [TypeScript](https://velog.io/@velopert/create-typescript-react-component) -->
+### :heavy_check_mark: [TypeScript](https://velog.io/@velopert/create-typescript-react-component) 
+-->
