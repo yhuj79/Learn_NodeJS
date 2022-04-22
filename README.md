@@ -1,6 +1,6 @@
 # Learn Node.JS
 
-<img width=300 src=https://raw.githubusercontent.com/yhuj79/Learn_NodeJS/master/md_image/00_TableOfContents.jpg>
+<img width=300 src=https://raw.githubusercontent.com/yhuj79/Learn_NodeJS/master/md_image/00_TableOfContents_1.jpg>
 
 `Node.js 교과서 - 길벗 / 조현영`
  
