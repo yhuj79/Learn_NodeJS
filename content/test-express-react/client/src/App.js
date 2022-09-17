@@ -20,6 +20,17 @@ function App() {
         setErr(true);
       });
   }, []);
+  useEffect(() => {
+    const url = "/api/dbtest";
+    axios
+      .get(url)
+      .then((res) => {
+        console.log(res);
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  }, []);
 
   return (
     <div className="App">
